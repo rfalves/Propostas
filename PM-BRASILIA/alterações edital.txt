@@ -1,0 +1,31 @@
+OK-colocar login na parte web
+OK-juntar coletor de dado e coletor RFID
+OK-Trocar PCP para Planejamento de estoque
+OK-PM = PMDF
+OK-descrever por extenso IE, IM
+OK-colocar em maiuscula o PORTAL WEB
+OK-adicionar - controle de estoque no WMS
+OK-descrever q o modulo SGM é web e coletor, deixar mais claro
+OK-PCP ta solto
+OK-Cockipt ta solvo
+OK-WMS ta solto
+OK-SGA está solto.
+OK-Deixar claro que os cadastro de fornecedores do portal web esta linkado ao modulo de compras
+OK-padronizar "picking" para "separação"
+OK-Organizar por processos o modulo "PCP" 
+OK-trocar "espalhadas" por "distribuidas"
+OK-modulo de compra, cadastro de itens/fornecedor pode ser nosso ou intergrado...
+OK-Tirar referencia SS e P4 ou melhorar
+OK-falta identificação
+OK-falta associção bem permanente + menu principal + descrição
+OK-montagem de kit de separação + e tambem na parte de coletor
+OK-separar o modulo de inventário
+OK-descrever o que é o sistema (contexto geral)
+OK-falar um pouco de integração
+OK-Melhorar o texto do cockpit a real funcionalide não somente os requisitos (visão gerencial, visão unidade)
+OK-Login poderá ser intergrado com sistema de retaguarda.
+OK-descrever o wifi quando necessario
+OK-retirar os "chamamos" deixar o mais impessoal
+OK-texto sobre metodologia
+OK-Criar um modulo de utilização do leitor hibrido.
+definir teste de pré qualificação

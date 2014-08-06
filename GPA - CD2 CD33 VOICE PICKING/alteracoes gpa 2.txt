@@ -1,0 +1,7 @@
+- informe o peso da tara (no inicio do processo do peso variavel)
+- rodizio de visitas entre camaras (congelado e resfriado) frequence hooping
+- enviar um flag no atualiza item informando se deve ou não validar o peso.
+- desenhar fluxo para impressão de etiqueta do queijo
+- enviar no atualiza_item, corte (tipo produto, se minimercado, se EAN) 
+- Cadastro de tolerancia em percetual para todos os produtos do Mini mercado, na separação do item, deverá ser somado as peças
+e aplicar a tolerancia.
